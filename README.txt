@@ -1,1 +1,3 @@
-Над проектом работают три разработчика: Larionov Daniil Yegorovich, Second Developer, Third Developer.
+Над проектом работают три разработчика: Larionov Daniil Yegorovich, Moshkin Maxim Aleksandrovich, Third Developer.
+
+
